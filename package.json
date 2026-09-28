@@ -1,0 +1,13 @@
+{
+  "name": "ru-court-fee",
+  "version": "1.0.0",
+  "description": "Калькулятор госпошлины в суды РФ по ст. 333.19 и 333.21 НК РФ (редакция 2024). Russian court fee calculator.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": { "test": "bun test" },
+  "keywords": ["госпошлина", "НК РФ", "333.19", "333.21", "court fee", "russia", "legal", "legaltech"],
+  "homepage": "https://yriist.ru/instruments",
+  "author": "ЮрИИст (https://yriist.ru)",
+  "license": "MIT"
+}
